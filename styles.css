@@ -7,23 +7,27 @@
   font-family: 'Work Sans', sans-serif;
 }
 body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   background: url('assets/images/background-pattern-desktop.svg');
-  background-size: cover;
-  background-size: 100vw;
+  /* background-size: cover; */
+  background-size: 80rem 18rem;
   background-repeat: no-repeat;
   background-color: hsl(275, 100%, 97%);
-  height: 100vh;
+  height: 300px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .container {
-  width: 600px;
+  width: 400px;
   background-color: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: left;
+  margin-top: 20em;
   padding: 2rem 2rem 1rem;
   border-radius: 20px;
   /* color: #fff; */
