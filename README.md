@@ -37,6 +37,7 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://master--preeminent-starship-e7420e.netlify.app/](https://your-live-site-url.com)
+- Live Site URL 2: [https://mehardeep88.github.io/faq-accordion-main/]
 
 ## My process
 
